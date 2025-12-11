@@ -1,4 +1,6 @@
-# 🚀 ARCH Lab GitHub Classroom
+# ARCH Lab GitHub Classroom 📖 
+
+<img align="center" alt="" src="../images/classroom.png"/>
 
 Welcome to the **ARCH Lab** for systems-related courses.  
 This space hosts programming projects, lab assignments, and supplemental materials used across various courses focusing on:
@@ -18,6 +20,8 @@ This space hosts programming projects, lab assignments, and supplemental materia
 ---
 
 ## 🛠️ For Students
+
+<img align="right" width="200" height="auto" alt="" src="../images/invite.png"/>
 
 - Access your assigned repositories through GitHub Classroom links provided in the assignment.  
 - Commit and push your work regularly.  
