@@ -14,6 +14,8 @@ This space hosts programming projects, lab assignments, and supplemental materia
 
 ## 📚 Currently Hosted Courses
 
+- **ECE 590S - Platform and Systems Software​ Design**
+- **ECE 690S - Platform and Systems Software​ Design**
 - **CPEN 4700 - Computer Systems Architecture**
 - **CPSC 5800 -  Advanced Topics in Systems Software**
 
@@ -23,7 +25,7 @@ This space hosts programming projects, lab assignments, and supplemental materia
 
 <img align="right" width="200" height="auto" alt="" src="../images/invite.png"/>
 
-- Access your assigned repositories through GitHub Classroom links provided in the assignment.  
+- Access your assigned repositories through GitHub Classroom links provided in the assignment (via Canvas).  
 - Commit and push your work regularly.  
 - Follow the project instructions in each repository’s README.
 
